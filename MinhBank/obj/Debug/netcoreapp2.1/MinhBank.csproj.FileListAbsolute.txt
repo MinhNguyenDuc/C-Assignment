@@ -1,0 +1,11 @@
+E:\Project\C#\MinhBank\MinhBank\MinhBank\bin\Debug\netcoreapp2.1\MinhBank.deps.json
+E:\Project\C#\MinhBank\MinhBank\MinhBank\bin\Debug\netcoreapp2.1\MinhBank.runtimeconfig.json
+E:\Project\C#\MinhBank\MinhBank\MinhBank\bin\Debug\netcoreapp2.1\MinhBank.runtimeconfig.dev.json
+E:\Project\C#\MinhBank\MinhBank\MinhBank\bin\Debug\netcoreapp2.1\MinhBank.dll
+E:\Project\C#\MinhBank\MinhBank\MinhBank\bin\Debug\netcoreapp2.1\MinhBank.pdb
+E:\Project\C#\MinhBank\MinhBank\MinhBank\obj\Debug\netcoreapp2.1\MinhBank.csprojAssemblyReference.cache
+E:\Project\C#\MinhBank\MinhBank\MinhBank\obj\Debug\netcoreapp2.1\MinhBank.csproj.CoreCompileInputs.cache
+E:\Project\C#\MinhBank\MinhBank\MinhBank\obj\Debug\netcoreapp2.1\MinhBank.AssemblyInfoInputs.cache
+E:\Project\C#\MinhBank\MinhBank\MinhBank\obj\Debug\netcoreapp2.1\MinhBank.AssemblyInfo.cs
+E:\Project\C#\MinhBank\MinhBank\MinhBank\obj\Debug\netcoreapp2.1\MinhBank.dll
+E:\Project\C#\MinhBank\MinhBank\MinhBank\obj\Debug\netcoreapp2.1\MinhBank.pdb

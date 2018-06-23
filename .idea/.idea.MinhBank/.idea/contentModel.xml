@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\MinhNguyenDuc\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_MinhBank.178905150.00" t="ExcludeRecursive" />
+    <e p="E:\Project\C#\MinhBank\MinhBank" t="IncludeFlat">
+      <e p="MinhBank" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="controller" t="Include">
+          <e p="AccountController.cs" t="Include" />
+          <e p="TransactionController.cs" t="Include" />
+        </e>
+        <e p="entity" t="Include">
+          <e p="Account.cs" t="Include" />
+          <e p="Transaction.cs" t="Include" />
+        </e>
+        <e p="error" t="Include">
+          <e p="SpringHeroTransactionException.cs" t="Include" />
+        </e>
+        <e p="MinhBank.csproj" t="IncludeRecursive" />
+        <e p="model" t="Include">
+          <e p="AccountModel.cs" t="Include" />
+          <e p="DBConnection.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="MinhBank.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="utility" t="Include">
+          <e p="Hash.cs" t="Include" />
+          <e p="Utility.cs" t="Include" />
+        </e>
+        <e p="view" t="Include">
+          <e p="MainView.cs" t="Include" />
+        </e>
+      </e>
+      <e p="MinhBank.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
